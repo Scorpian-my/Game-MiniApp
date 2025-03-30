@@ -182,7 +182,7 @@ For support, please open an issue in the repository or contact the development t
 
 ### Contact Information
 - Telegram: [@Dev_Scorpian](https://t.me/Dev_Scorpian)
-- GitHub: [Dev_Scorpian](https://github.com/Dev_Scorpian)
+- GitHub: [Dev_Scorpian](https://github.com/Scorpian-my)
 
 ---
 
