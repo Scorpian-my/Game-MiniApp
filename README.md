@@ -1,5 +1,17 @@
 # 🎮 Game Mini App
 
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.4.21-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.4.0-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0.29-4479A1?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square&logo=telegram)](https://telegram.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![Stars](https://img.shields.io/github/stars/Dev_Scorpian/Game-MiniApp?style=social)](https://github.com/Dev_Scorpian/Game-MiniApp/stargazers)
+[![Forks](https://img.shields.io/github/forks/Dev_Scorpian/Game-MiniApp?style=social)](https://github.com/Dev_Scorpian/Game-MiniApp/network/members)
+[![Issues](https://img.shields.io/github/issues/Dev_Scorpian/Game-MiniApp)](https://github.com/Dev_Scorpian/Game-MiniApp/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Dev_Scorpian/Game-MiniApp)](https://github.com/Dev_Scorpian/Game-MiniApp/pulls)
+
 A modern, full-stack web application that integrates with Telegram, providing an engaging gaming experience through a mini app interface.
 
 ## 🌟 Features
@@ -14,20 +26,20 @@ A modern, full-stack web application that integrates with Telegram, providing an
 ## 🛠️ Tech Stack
 
 ### Frontend
-- Vue 3
-- TypeScript
-- Vite
-- Vue Router
-- Axios for API calls
-- Lodash for utility functions
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-3.4.21-4FC08D?style=for-the-badge&logo=vue.js" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TypeScript-5.4.0-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-5.1.6-646CFF?style=for-the-badge&logo=vite" alt="Vite">
+  <img src="https://img.shields.io/badge/Axios-1.6.8-5A29E4?style=for-the-badge&logo=axios" alt="Axios">
+</div>
 
 ### Backend
-- ASP.NET Core
-- Entity Framework Core
-- MySQL Database
-- JWT Authentication
-- Telegram Bot API
-- AutoMapper for object mapping
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-7.0-512BD4?style=for-the-badge&logo=.net" alt=".NET">
+  <img src="https://img.shields.io/badge/MySQL-8.0.29-4479A1?style=for-the-badge&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" alt="JWT">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+</div>
 
 ## 🚀 Getting Started
 
@@ -175,6 +187,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, please open an issue in the repository or contact the development team.
 
+### Contact Information
+- Telegram: [@Dev_Scorpian](https://t.me/Dev_Scorpian)
+- GitHub: [Dev_Scorpian](https://github.com/Dev_Scorpian)
+
 ---
 
-Made with ❤️ by [Scorpian] 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Dev_Scorpian" alt="Typing SVG" />
+</div>
