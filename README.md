@@ -1,12 +1,5 @@
 # 🎮 Game Mini App
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.4.21-4FC08D?style=flat-square&logo=vue.js)](https://vuejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.4.0-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![.NET](https://img.shields.io/badge/.NET-7.0-512BD4?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0.29-4479A1?style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square&logo=telegram)](https://telegram.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 [![Stars](https://img.shields.io/github/stars/Dev_Scorpian/Game-MiniApp?style=social)](https://github.com/Dev_Scorpian/Game-MiniApp/stargazers)
 [![Forks](https://img.shields.io/github/forks/Dev_Scorpian/Game-MiniApp?style=social)](https://github.com/Dev_Scorpian/Game-MiniApp/network/members)
 [![Issues](https://img.shields.io/github/issues/Dev_Scorpian/Game-MiniApp)](https://github.com/Dev_Scorpian/Game-MiniApp/issues)
